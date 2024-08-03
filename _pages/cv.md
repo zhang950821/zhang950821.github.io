@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematical science, University of Southampton, 2026 (expected)
+* M.S. in Applied statistics, University of Southampton, 2019
+* B.S. in Applied statistics, Nanjing University of Posts and Telecommunications, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* August 2020- May 2022: system analyst
+  * Bank of Communications
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -43,6 +43,7 @@ Skills
 
 Publications
 ======
+EO0496 - Invited: Spatial-temporal synthetic error model of causal analysis with application to policy causal effect evaluation
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
