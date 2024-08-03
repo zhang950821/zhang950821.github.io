@@ -43,7 +43,6 @@ Skills
 
 Publications
 ======
-EO0496 - Invited: Spatial-temporal synthetic error model of causal analysis with application to policy causal effect evaluation
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
