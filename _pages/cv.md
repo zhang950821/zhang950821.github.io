@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% zhang950821.github.io %}
+{% include base_path %}
 
 Education
 ======
