@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Statistical Methods in Insurance"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Southampton"
+date: Jan, 2023
+location: "Southampton, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Answer questions from students in their homework during the tutorial.
 
 Heading 1
 ======
